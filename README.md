@@ -1,7 +1,5 @@
-# pm-portfolio
-product portfolio for photo company selling picture frames in restaurants
 # My Portfolio
 
-🌐 Portfolio: https://kseniyanechyparenka-pm.lovable.app/about 
+Product portfoliio for hospitality-tech company selling printed glass photo frames in restaurants
 
-This repository contains a link to my personal portfolio website.
+🌐 Portfolio: https://kseniyanechyparenka-pm.lovable.app/about 
